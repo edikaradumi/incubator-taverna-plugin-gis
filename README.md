@@ -16,10 +16,7 @@
 -->
 # Apache Taverna Plugin GIS
 
-Apache Taverna Plugin GIS is a plugin for Apache Taverna that provides
-support for Geographical Information Systems (GIS), in particular 
-[OGC web services](http://www.opengeospatial.org/standards/common).
-
+The purpose of this branch is to implement a specific WPS Service plugin for Taverna 2.5
 
 ## License
 
